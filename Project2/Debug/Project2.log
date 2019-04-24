@@ -1,0 +1,13 @@
+﻿  main.cpp
+d:\projects\air-line ticket reservation system\project2\hashing.h(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\projects\air-line ticket reservation system\project2\hashing.h(65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\projects\air-line ticket reservation system\project2\hashing.h(86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\projects\air-line ticket reservation system\project2\tries.h(31): warning C4018: '<': signed/unsigned mismatch
+d:\projects\air-line ticket reservation system\project2\tries.h(48): warning C4018: '<': signed/unsigned mismatch
+d:\projects\air-line ticket reservation system\project2\myform.h(1326): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\projects\air-line ticket reservation system\project2\main.cpp(6): error C2976: 'std::array': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\utility(512): note: see declaration of 'std::array'
+d:\projects\air-line ticket reservation system\project2\main.cpp(6): error C3699: '^': cannot use this indirection on type 'std::array'
+  d:\projects\air-line ticket reservation system\project2\main.cpp(6): note: compiler replacing '^' with '*' to continue parsing
+  MyForm1.cpp
+  Generating Code...
